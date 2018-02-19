@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<DOCTYPE html>\n<html>\n\t<head>\n\t\t<title>A Programing Question</title>\n\t</head>\n\t<body>\n\t\t<h1> I'm having trouble displaying Javascript</h1>\n\t\t<p>I think I'm using the correct function. \n\t\tBut I can't figure out what's wrong.</p>\n\t\t<pre>\n\t\t\talert(This is a message)\n\t\t</pre>\n\t</body>\n\n</html> ",
+			"file": "object.html",
+			"file_size": 304,
+			"file_write_time": 131634835622178443,
+			"settings":
+			{
+				"buffer_size": 291,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/User/Code/fitl-app-basic"
+	],
+	"file_history":
+	[
+		"/C/Users/User/Code/fitl-app-basic/fitl-app-basic.sublime-project",
+		"/C/Users/User/Downloads/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/C/Users/User/Desktop/login_details.txt",
+		"/C/Users/User/Desktop/New Text Document.txt",
+		"/C/Users/User/Desktop/Books.txt",
+		"/C/xampp/htdocs/test/image-upload.php",
+		"/C/Users/User/Desktop/Books1.txt",
+		"/C/xampp/htdocs/full-stack-laravel-2/day-14/Student.php",
+		"/C/xampp/htdocs/full-stack-laravel-2/day-14/Series.php",
+		"/C/xampp/htdocs/full-stack-laravel-2/calculator/Calculation.php",
+		"/C/Users/User/Downloads/PhpStorm 2017.1/crack.txt",
+		"/C/xampp/htdocs/full-stack-laravel-2/calculator/calculator.php",
+		"/C/xampp/htdocs/full-stack-laravel-2/day-14/add-student.php",
+		"/C/Program Files (x86)/Internet Download Manager/license.txt",
+		"/C/xampp/htdocs/full-stack-laravel-2/calculator/calculation.php",
+		"/C/Users/User/Desktop/from idea to launch/New Text Document.txt",
+		"/C/xampp/htdocs/work/addition.php",
+		"/C/xampp/htdocs/work/subtraction.php",
+		"/C/xampp/htdocs/work/index.php",
+		"/C/Users/User/Desktop/work/subtraction.php",
+		"/C/Users/User/Desktop/work/addition.php",
+		"/C/Users/User/Desktop/work/index.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR42.701/class-13-classwork/autoloader/test2.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR42.701/class-13-classwork/autoloader/test1.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR42.701/class-13-classwork/autoloader/index.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR01.800/class-13-classwork/namespace/index.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR01.781/class-13-classwork/namespace/test1.php",
+		"/C/Users/User/AppData/Local/Temp/Rar$DR02.920/class-13-classwork/namespace/test2.php",
+		"/C/Users/User/Desktop/bootstrap_cheatsheet/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$EX00.543/with-jquery.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$EX00.165/mockup-to-article/index.html",
+		"/C/Users/User/AppData/Local/Temp/Rar$EX31.982/looplab/src/index.html",
+		"/C/Users/User/Desktop/bootstrap_cheatsheet/index.html.txt",
+		"/C/Users/User/Desktop/My portfolio/style.css",
+		"/C/Users/User/Desktop/My portfolio/index.html",
+		"/C/Users/User/Desktop/My portfolio/New Text Document"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "object.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fitl-app-basic.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
